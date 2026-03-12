@@ -74,3 +74,4 @@ The raw CSV files were imported into a SQLite database using **DB Browser for SQ
 - Identified orders where delivery time was worse than the monthly average to detect potential delivery delays.
 
 ---
+#### Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
